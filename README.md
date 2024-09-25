@@ -1,4 +1,4 @@
-# Hi👋, I'm Cipriyo. I'm a little dev 👾.
+# Hi👋, I'm Cipriyo. I'm a dev 👾.
 
 ## I'm good at :
 
@@ -6,4 +6,4 @@
 
 ## And I try to do my best in :
 
-[![My Skills](https://skillicons.dev/icons?i=ts,cpp,c,py,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,ts,cpp,c,py,bash)](https://skillicons.dev)
