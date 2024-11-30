@@ -2,7 +2,7 @@
 
 ## I'm good at :
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,cs,vue,nuxt)](https://skillicons.dev)
 
 ## And I try to do my best in :
 
