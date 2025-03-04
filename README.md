@@ -6,4 +6,4 @@
 
 ## And I try to do my best in :
 
-[![My Skills](https://skillicons.dev/icons?i=css,cpp,c,py,bash,psh)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,cpp,c,py,bash,ps1)](https://skillicons.dev)
